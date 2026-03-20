@@ -1,4 +1,5 @@
-Credit Risk Analysis Baseline
+Credit Risk Analysis 
+
 Wyatt Grace / Shaan Sidhu
 MAT 180 - Arsuaga W26' UC Davis
 
