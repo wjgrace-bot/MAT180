@@ -4,7 +4,7 @@ MAT 180 - Arsuaga W26' UC Davis
 
 Variable Neural Network for Statlog (German Credit Data) with one-hot encoding for categorical data
 
-Setup and tests were completed on MATLAB locally using a Ryzen 9 9950X3D with 64GB@4800MT/s of memory
+Setup and tests were completed on MATLAB R2025b locally using a Ryzen 9 9950X3D with 64GB@4800MT/s of memory
 
 All libraries taken as of 3/19/2026
 
